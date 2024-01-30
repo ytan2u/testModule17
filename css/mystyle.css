@@ -5,3 +5,7 @@ body{
 .logoIcon{
     background-color: aquamarine;
 }
+
+.inlineBlock{
+    display: inline-block;
+}
